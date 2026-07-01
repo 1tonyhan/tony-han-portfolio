@@ -33,12 +33,7 @@ template = """<!DOCTYPE html>
     <main class="page-content">
       <div class="page-frame">
         <img src="assets/projects/{slug}.png" alt="{title}" loading="lazy" />
-        <a
-          class="back-link"
-          href="projects.html"
-          aria-label="Back to Projects"
-          style="left:{x}%;top:{y}%;width:{w}%;height:{h}%"
-        ></a>
+        <a class="back-link" href="projects.html" aria-label="Back to Projects"></a>
       </div>
     </main>
   </body>
@@ -51,10 +46,6 @@ for slug, info in meta.items():
         title=info["title"],
         slug=slug,
         nav=nav,
-        x=back["x"],
-        y=back["y"],
-        w=back["width"],
-        h=back["height"],
     )
     (base / f"{slug}.html").write_text(html, encoding="utf-8")
     print(f"wrote {slug}.html")
