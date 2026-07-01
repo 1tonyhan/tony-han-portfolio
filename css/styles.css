@@ -39,12 +39,12 @@ body {
 }
 
 .site-nav {
-  max-width: var(--page-width);
-  margin: 0 auto;
+  width: 100%;
+  margin: 0;
   height: var(--nav-height);
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   gap: 2.5rem;
   padding: 0 1.5rem;
 }
@@ -68,15 +68,14 @@ body {
 }
 
 .page-content {
-  display: flex;
-  justify-content: center;
-  padding: 0 1rem 3rem;
+  display: block;
+  padding: 0 0 3rem;
 }
 
 .page-frame {
   position: relative;
   width: 100%;
-  max-width: var(--page-width);
+  max-width: none;
 }
 
 .page-frame img {
