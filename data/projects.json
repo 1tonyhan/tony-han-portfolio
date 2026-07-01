@@ -1,0 +1,47 @@
+[
+  {
+    "id": "autonomous-claw",
+    "label": "Autonomous Robot claw",
+    "href": "autonomous-claw.html",
+    "x": 17.19,
+    "y": 53.84,
+    "width": 16.98,
+    "height": 15.1
+  },
+  {
+    "id": "motor-feedback",
+    "label": "Motor Feedback Circuit",
+    "href": "motor-feedback-circuit.html",
+    "x": 42.08,
+    "y": 53.84,
+    "width": 16.98,
+    "height": 15.1
+  },
+  {
+    "id": "crt-tv",
+    "label": "CRT TV Disassembly",
+    "href": "crt-tv-disassembly.html",
+    "x": 65.83,
+    "y": 53.84,
+    "width": 16.98,
+    "height": 15.1
+  },
+  {
+    "id": "phone-stand",
+    "label": "Phone Stand",
+    "href": "phone-stand.html",
+    "x": 29.55,
+    "y": 76.16,
+    "width": 16.98,
+    "height": 15.1
+  },
+  {
+    "id": "capacity-claw",
+    "label": "Capacity Claw",
+    "href": "capacity-claw.html",
+    "x": 54.45,
+    "y": 76.16,
+    "width": 16.98,
+    "height": 15.1
+  }
+]

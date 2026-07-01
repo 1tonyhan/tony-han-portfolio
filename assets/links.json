@@ -1,0 +1,61 @@
+[
+  {
+    "page": 1,
+    "width": 1024.5,
+    "height": 576.0,
+    "links": []
+  },
+  {
+    "page": 2,
+    "width": 1024.5,
+    "height": 1152.0,
+    "links": [
+      {
+        "uri": "https://portfoliotonyhan.my.canva.site/claw",
+        "x": 17.19,
+        "y": 53.84,
+        "width": 16.98,
+        "height": 15.1
+      },
+      {
+        "uri": "https://portfoliotonyhan.my.canva.site/motor-feedback",
+        "x": 42.08,
+        "y": 53.84,
+        "width": 16.98,
+        "height": 15.1
+      },
+      {
+        "uri": "https://portfoliotonyhan.my.canva.site/crt-tv",
+        "x": 65.83,
+        "y": 53.84,
+        "width": 16.98,
+        "height": 15.1
+      },
+      {
+        "uri": "https://portfoliotonyhan.my.canva.site/phone-stand",
+        "x": 29.55,
+        "y": 76.16,
+        "width": 16.98,
+        "height": 15.1
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "width": 1024.5,
+    "height": 1152.0,
+    "links": []
+  },
+  {
+    "page": 4,
+    "width": 1024.5,
+    "height": 2304.0,
+    "links": []
+  },
+  {
+    "page": 5,
+    "width": 1024.5,
+    "height": 4608.0,
+    "links": []
+  }
+]

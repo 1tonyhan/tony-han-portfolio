@@ -1,0 +1,57 @@
+{
+  "autonomous-claw": {
+    "width": 1024.5,
+    "height": 2304.0,
+    "back": {
+      "x": 48.13,
+      "y": 97.63,
+      "width": 3.73,
+      "height": 0.75
+    },
+    "title": "Autonomous Claw"
+  },
+  "capacity-claw": {
+    "width": 1024.5,
+    "height": 1728.0,
+    "back": {
+      "x": 48.13,
+      "y": 96.86,
+      "width": 3.73,
+      "height": 1.0
+    },
+    "title": "Capacity Claw"
+  },
+  "phone-stand": {
+    "width": 1024.5,
+    "height": 1152.0,
+    "back": {
+      "x": 48.13,
+      "y": 95.04,
+      "width": 3.73,
+      "height": 1.5
+    },
+    "title": "Phone Stand"
+  },
+  "crt-tv-disassembly": {
+    "width": 1024.5,
+    "height": 1152.0,
+    "back": {
+      "x": 48.13,
+      "y": 95.23,
+      "width": 3.73,
+      "height": 1.5
+    },
+    "title": "CRT TV Disassembly"
+  },
+  "motor-feedback-circuit": {
+    "width": 1024.5,
+    "height": 1728.0,
+    "back": {
+      "x": 48.13,
+      "y": 96.53,
+      "width": 3.73,
+      "height": 1.0
+    },
+    "title": "Motor Feedback Circuit"
+  }
+}
