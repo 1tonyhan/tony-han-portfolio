@@ -69,8 +69,13 @@ body {
 
 .page-content {
   display: block;
-  padding: 0 0 3rem;
+  padding: 0;
 }
+
+.no-bottom-gap {
+  padding-bottom: 0 !important;
+}
+
 
 .page-frame {
   position: relative;
