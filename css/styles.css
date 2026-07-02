@@ -8,7 +8,7 @@
 
 :root {
   --page-width: 1024px;
-  --nav-height: 56px;
+  --nav-height: 38px;
   --color-bg: #ffffff;
   --color-text: #1a1a1a;
   --color-muted: #666666;
@@ -126,6 +126,21 @@ body {
 .page-frame .back-link:focus-visible {
   outline: 2px solid #e67e00;
   outline-offset: 2px;
+}
+
+.site-footer {
+  background: #000;
+  color: #fff;
+  font-family: var(--font-sans);
+  text-align: center;
+  padding: 1rem 0 0.67rem 0;
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+  margin-top: 0;
+}
+
+.footer-content {
+  opacity: 0.9;
 }
 
 @media (max-width: 640px) {
