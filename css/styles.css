@@ -69,11 +69,43 @@ body {
 
 .page-content {
   display: block;
-  padding: 0;
+  padding: 0 0 5rem 0;
 }
-
+ 
 .no-bottom-gap {
   padding-bottom: 0 !important;
+}
+ 
+.project-pdf-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+}
+ 
+.project-pdf {
+  display: block;
+  width: 100%;
+  min-height: 1200px;
+  border: none;
+}
+ 
+.project-pdf img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+ 
+.project-video-overlay {
+  position: absolute;
+  left: 8%;
+  bottom: 12%;
+  width: 38%;
+  max-width: 520px;
+  z-index: 2;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.18);
+  background: #000;
 }
 
 
