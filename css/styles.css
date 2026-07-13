@@ -89,6 +89,15 @@ body {
   height: auto;
 }
 
+.page-frame .claw-video {
+  position: absolute;
+  left: 18.73975%;
+  top: 84.1145%;
+  width: 36.25%;   /* adjust video size here */
+  height: auto;
+  z-index: 5;
+}
+
 .page-frame .project-link {
   position: absolute;
   display: block;
